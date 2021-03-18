@@ -11,7 +11,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:file:~/test/test_db;AUTO_SERVER=TRUE
     username: sa
-    password: 1234
+#    password: 1234
 
   jpa:
     hibernate:
